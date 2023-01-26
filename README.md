@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Wolfram-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white"></img>
 
 </p>
 
