@@ -16,6 +16,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"></img>
 
 </p>
 
