@@ -14,7 +14,7 @@
 <p>
 <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-PostgreSQL-61DAFB?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 
 </p>
 
