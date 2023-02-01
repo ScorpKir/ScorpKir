@@ -2,15 +2,17 @@
 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only"/></a>
-   <a href="https://github.com/ScorpKir/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpKir&layout=compact"/>
-                                                                  <p align='center'><img src="https://www.codewars.com/users/ScorpKir/badges/large"></img></p>
-                                                                  </a>
-                                                                 
+   <a href="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true">
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only"/>
+   </a>
+   <a href="https://github.com/ScorpKir/github-readme-stats">
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpKir&layout=compact&theme=dark#gh-dark-mode-only"/>
+      <p align='center'>
+         <img src="https://www.codewars.com/users/ScorpKir/badges/large"></img>
+      </p>
+   </a>                                                              
 </p>
+
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
