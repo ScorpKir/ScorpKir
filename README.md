@@ -1,6 +1,6 @@
 # Привет, я Кирилл Петряшев!
 
-# Моя статистика:
+### Моя статистика:
 
 <p>
    <a href="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true">
@@ -14,6 +14,9 @@
    </p>
 </p>
 
+
+### Мой стек:
+
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
@@ -25,16 +28,8 @@
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Wolfram-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white"></img>
-
 </p>
 
-### О себе
+### Образование:
 *   📙 Учусь в [ЯрГУ им П.Г. Демидова](https://www.uniyar.ac.ru/)  
-*   🧑‍🎓 Люблю и изучаю математику, а также машинное обучение 
-*   🐶 Обожаю Фенеков, корги, и капибар
-
-### Стек
-*   Python3
-*   C++
-*   PostgreSQL
-*   MS SQL Server
+*   🧑‍🎓 Активно изучаю машинное обучение и веб-программирование 
