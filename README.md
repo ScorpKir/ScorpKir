@@ -1,16 +1,17 @@
-# Привет! Я Кирилл Петряшев 👋
+# Привет, я Кирилл Петряшев!
 
+# Моя статистика:
 
 <p>
    <a href="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true">
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only"/>
    </a>
    <a href="https://github.com/ScorpKir/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpKir&layout=compact&theme=dark#gh-dark-mode-only"/>
-      <p align='center'>
-         <img src="https://www.codewars.com/users/ScorpKir/badges/small"></img>
-      </p>
-   </a>                                                              
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpKir&layout=compact&theme=dark#gh-dark-mode-only"/>   
+   </a>      
+   <p align='center'>
+      <img src="https://www.codewars.com/users/ScorpKir/badges/small"></img>
+   </p>
 </p>
 
 <p>
