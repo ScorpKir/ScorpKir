@@ -10,7 +10,7 @@
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpKir&layout=compact&theme=dark#gh-dark-mode-only"/>   
    </a>      
    <p align='center'>
-      <img src="https://www.codewars.com/users/ScorpKir/badges/small"></img>
+      <img src="https://www.codewars.com/users/ScorpKir/badges/large"></img>
    </p>
 </p>
 
