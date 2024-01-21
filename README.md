@@ -59,11 +59,11 @@
 <a href="https://discordapp.com/users/scorpkir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/e49da3cfc5f88fce486acbaa230de6bcf8c9fda1/src/assets/icons/social/discord/default.svg" alt="scorpkir" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpkir&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 ------
 
 
-[ANii693](https://github.com/ANii693)
+[ANii693](https://github.com/scorpkir)
 
 Last Edited on: 28/02/2023
