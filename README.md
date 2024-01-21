@@ -1,48 +1,71 @@
-# Привет, я Кирилл Петряшев!
+<h1 align="center">Привет 👋, я Кирилл Петряшев</h1>
 
-<p align='center'>
-      <img src="https://www.codewars.com/users/ScorpKir/badges/large"></img>
+
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+🌱 Я сейчас изучаю **Backend web-разработку**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+
+<br>
+<h3 align="left">Языки и инструменты:</h3>
+<p align="left"> 
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a> 
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40"/> 
+      </a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-original.svg" alt="mysql" width="40" height="40"/> 
+      </a> 
 </p>
+<br>
 
-### Моя статистика:
 
-<p>
-   <a href="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true">
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=ScorpKir&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only"/>
-   </a>
-   <a href="https://github.com/ScorpKir/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpKir&layout=compact&theme=dark#gh-dark-mode-only"/>   
-   </a>      
+<hr width="36%" >
+
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
+<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
+<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+
+------
 
 
-### Мой стек:
+[ANii693](https://github.com/ANii693)
 
-<p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=sympy&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=sympy&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-Poetry-60A5FA?style=for-the-badge&logo=sympy&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=sympy&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-Wolfram-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white"></img>
-</p>
-<p>
-      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-CMake-064F8C?style=for-the-badge&logo=git&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=git&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=git&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-GNU Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white"></img>
-</p>
-<p>
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></img>
-</p>
-
-### Образование:
-*   📙 Учусь в [ЯрГУ им П.Г. Демидова](https://www.uniyar.ac.ru/)  
-*   🧑‍🎓 Активно изучаю машинное обучение и веб-программирование 
+Last Edited on: 28/02/2023
