@@ -56,6 +56,7 @@
 
 <h3>Моя статистика тренировок алгоритмов</h3>
 <p>&nbsp;<img align="left" src="https://www.codewars.com/users/ScorpKir/badges/large" alt="scorpkir" /></p>
+<br><br>
 <hr width="60%" >
 
 <h3 align="left">Мои контакты:</h3>
