@@ -53,6 +53,11 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ScorpKir&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
+
+<h3>Моя статистика тренировок алгоритмов</h3>
+<p>&nbsp;<img align="left" src="https://www.codewars.com/users/ScorpKir/badges/large" alt="scorpkir" /></p>
+<hr width="60%" >
+
 <h3 align="left">Мои контакты:</h3>
 <p align="left">
 <a href="https://t.me/ScorpKir" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/e49da3cfc5f88fce486acbaa230de6bcf8c9fda1/src/assets/icons/social/telegram/default.svg" height="30" width="40" /></a>
