@@ -25,10 +25,16 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
       </a> 
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40"/> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
       </a>
       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-original.svg" alt="mysql" width="40" height="40"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+      </a> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> 
+      </a> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> 
       </a> 
 </p>
 <br>
