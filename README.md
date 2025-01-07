@@ -8,7 +8,7 @@
 🌱 Сейчас ресерчу серверную **web-разработку** на PostgreSQL и Python.<br>
 🎓 Окончил бакалавриат по направлению "Прикладная математика и информатика".<br>
 🧑‍🎓 Учусь в магистратуре по направлению "Информационная безопасность".<br>
-💻 Работаю в <a href="ocrv.ru" target="_blank" rel="noreferrer">ОЦРВ</a><br>.
+💻 Работаю в <a href="https://www.ocrv.ru/" target="_blank" rel="noreferrer">ОЦРВ</a>.<br>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
