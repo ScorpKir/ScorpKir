@@ -59,5 +59,3 @@
 <a href="mailto:petryashev.k@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/e49da3cfc5f88fce486acbaa230de6bcf8c9fda1/src/assets/icons/social/gmail/default.svg" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/scorpkir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/e49da3cfc5f88fce486acbaa230de6bcf8c9fda1/src/assets/icons/social/discord/default.svg" alt="scorpkir" height="30" width="40" /></a>
 </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpkir&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
