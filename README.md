@@ -12,8 +12,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-
-<br>
 <h3 align="left">Языки и инструменты:</h3>
 <p align="left"> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -47,11 +45,9 @@
             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
       </a>
 </p>
-<br>
 
 <h3>Моя статистика codewars</h3>
 <p>&nbsp;<img align="left" src="https://www.codewars.com/users/ScorpKir/badges/large" alt="scorpkir" /></p>
-<br><br>
 
 <h3 align="left">Мои контакты:</h3>
 <p align="left">
